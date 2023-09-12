@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **claudiaortizjabre@gmail.com**
 
-- 📄 Know about my experiences **in my <a href="https://www.canva.com/design/DAFmCHWTXHc/gGtIzVohca-MsGLQhTze5w/view?utm_content=DAFmCHWTXHc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">CV</a>**
-
 - ⚡ Fun fact **I love cats** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="side Gif" width="30" height="auto">
 
 ## 🌐 Socials:
