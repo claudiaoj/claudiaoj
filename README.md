@@ -12,9 +12,9 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2> ✨ About me</h2>
 
-- 🔭 I’m currently working on **Laboratoria Bootcamp**
+- 🔭 I’m currently working on **ZeroQ**
 
-- 🌱 I’m currently learning **React** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🌱 I’m currently learning **React** and **Testing QA** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 💬 Ask me about **JavaScript, CSS, HTML**
 
